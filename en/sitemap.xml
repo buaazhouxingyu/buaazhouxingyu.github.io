@@ -31,20 +31,6 @@
   </url>
   
   <url>
-    <loc>https://buaazhouxingyu.github.io/author/nelson-bighetti/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://buaazhouxingyu.github.io/zh/author/nelson-bighetti/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://buaazhouxingyu.github.io/author/nelson-bighetti/"
-                />
-  </url>
-  
-  <url>
     <loc>https://buaazhouxingyu.github.io/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -111,6 +97,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://buaazhouxingyu.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://buaazhouxingyu.github.io/author/xingyu-zhou/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://buaazhouxingyu.github.io/zh/author/xingyu-zhou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buaazhouxingyu.github.io/author/xingyu-zhou/"
                 />
   </url>
   
