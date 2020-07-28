@@ -3,20 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://buaazhouxingyu.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://buaazhouxingyu.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://buaazhouxingyu.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://buaazhouxingyu.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -125,6 +111,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://buaazhouxingyu.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://buaazhouxingyu.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://buaazhouxingyu.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://buaazhouxingyu.github.io/"
                 />
   </url>
   
